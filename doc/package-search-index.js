@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.htwberlin.prog1.ss19.nextstar"},{"l":"de.htwberlin.prog1.ss19.nextstar.model"}]
